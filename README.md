@@ -6,8 +6,9 @@
 
 1. `git clone https://github.com/seungej/AirlineDatabase`
 2. `cd hw4`
-3. `npm i`
-4. `npm start`
+3. `cd client`
+4. `npm i`
+5. `npm start`
 
 ### Branching
 
